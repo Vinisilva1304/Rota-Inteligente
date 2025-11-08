@@ -79,5 +79,5 @@ Rota-Inteligente/
 
 ---
 
-Projeto entregue por: Vinícius Silva (Aluno)
+Projeto entregue por: Vinícius Leite da Silva RA: 76199 
 Disciplina: Artificial Intelligence Fundamentals
