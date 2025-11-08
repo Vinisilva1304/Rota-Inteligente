@@ -1,0 +1,11 @@
+id,nome,x,y,descricao
+1,Ponto_A,1,1,Restaurante A
+2,Ponto_B,2,1,Cliente B
+3,Ponto_C,2,2,Cliente C
+4,Ponto_D,8,8,Cliente D
+5,Ponto_E,9,8,Restaurante E
+6,Ponto_F,8,9,Cliente F
+7,Ponto_G,5,3,Cliente G
+8,Ponto_H,6,2,Cliente H
+9,Ponto_I,4,5,Cliente I
+10,Ponto_J,3,6,Cliente J

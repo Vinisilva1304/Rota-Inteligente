@@ -1,0 +1,11 @@
+id,nome,x,y,cluster
+1,Ponto_A,1,1,0
+2,Ponto_B,2,1,0
+3,Ponto_C,2,2,0
+4,Ponto_D,8,8,1
+5,Ponto_E,9,8,1
+6,Ponto_F,8,9,1
+7,Ponto_G,5,3,0
+8,Ponto_H,6,2,0
+9,Ponto_I,4,5,0
+10,Ponto_J,3,6,0
