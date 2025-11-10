@@ -82,6 +82,40 @@ Rota-Inteligente/
 - Considerar restrições: janelas de tempo, capacidade dos entregadores.
 - Experimentar otimização combinatória (MILP) ou heurísticas meta-heurísticas (genéticos, simulated annealing).
 
+
+📚 Referências Bibliográficas
+
+RUSSELL, Stuart; NORVIG, Peter. Artificial Intelligence: A Modern Approach. 4. ed. Pearson, 2021.
+
+Obra referência em fundamentos de IA, utilizada como base teórica para os algoritmos de busca (BFS, DFS e A*).
+
+MITCHELL, Tom M. Machine Learning. McGraw-Hill, 1997.
+
+Fundamenta os conceitos de aprendizado supervisionado e não supervisionado, aplicados no algoritmo K-Means.
+
+LLOYD, Stuart P. Least Squares Quantization in PCM. IEEE Transactions on Information Theory, v. 28, n. 2, p. 129–137, 1982.
+
+Artigo original que define o algoritmo K-Means, utilizado na etapa de agrupamento de entregas.
+
+UPS. ORION: On-Road Integrated Optimization and Navigation. UPS Pressroom, 2024.
+
+Caso prático de aplicação de IA na otimização de rotas logísticas, modelo conceitual para o projeto “Rota Inteligente”.
+
+GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. MIT Press, 2016.
+
+Fornece a base conceitual moderna para o desenvolvimento de sistemas inteligentes e heurísticas avançadas.
+
+RIBEIRO, Marco Túlio; SINGH, Sameer; GUESTRIN, Carlos. "Why Should I Trust You?": Explaining the Predictions of Any Classifier. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016.
+
+Referência em interpretabilidade e ética em IA, destacando a importância da transparência em sistemas de decisão automatizados.
+
+OPENAI. Research Portal. Disponível em: https://openai.com/research
+. Acesso em: nov. 2025.
+Fonte complementar sobre avanços contemporâneos em Inteligência Artificial e aplicações práticas.
+
+IBM. K-Means Clustering in Logistics Optimization. IBM Developer Portal, 2024. Disponível em: https://developer.ibm.com/
+.
+Referência técnica sobre o uso de K-Means em otimização logística.
 ---
 
 Projeto entregue por: Vinícius Leite da Silva RA: 76199 
