@@ -28,6 +28,10 @@ Este projeto propõe o uso de métodos clássicos de Inteligência Artificial pa
 O repositório contém scripts que geram imagens do grafo (`outputs/grafo.png`) e dos clusters (`outputs/clusters.png`).
 <img width="1536" height="1024" alt="Grafo" src="https://github.com/user-attachments/assets/b7d948eb-369a-4a67-99a7-32e1bcb26aaf" />
 
+Agrupamento de Entregas 
+<img width="958" height="802" alt="Captura de tela 2025-11-10 194935" src="https://github.com/user-attachments/assets/e2ffec01-8450-4840-9293-921166b2041f" />
+
+
 ## 7. Como executar (passo a passo)
 1. Clone o repositório:
 ```bash
