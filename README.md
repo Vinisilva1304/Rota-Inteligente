@@ -119,4 +119,5 @@ Referência técnica sobre o uso de K-Means em otimização logística.
 ---
 
 Projeto entregue por: Vinícius Leite da Silva RA: 76199 
+
 Disciplina: Artificial Intelligence Fundamentals
